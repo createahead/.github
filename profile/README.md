@@ -2,7 +2,7 @@
 
 _"We build kickass scalable business apps for Startups or SMBs."_ :fire:
 
-![Createahead Logo](https://createahead.com/assets/images/logo.png)
+![Createahead Logo](https://github.com/createahead/.github/assets/12508523/6fb30425-20f8-45d8-a645-86fd958668dd)
 
 ### :round_pushpin: About Us
 
@@ -40,8 +40,8 @@ Welcome aboard! 🚀
 
 ---
 
-![Footer Banner](https://createahead.com/assets/images/footer.png)
+![Footer Banner](https://github.com/createahead/.github/assets/12508523/04049d35-17d4-4768-9c9b-855439f25972)
 
-**Createahead | Crafting Future-Ready Business Apps**
+**Createahead | _"We build kickass scalable business apps for Startups or SMBs."_**
 
 ---
